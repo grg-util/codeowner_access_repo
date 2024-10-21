@@ -1,0 +1,6 @@
+# Configuration for identifying owners of the project code within the repository
+# so that required reviewers can be automatically set during PRs
+
+# Reference: https://help.github.com/articles/about-codeowners/
+
+* @george_team
